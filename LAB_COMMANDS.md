@@ -1,4 +1,4 @@
-# Docker Lab Commands (Windows / VS Code Terminal) — FINAL (WORKING VERSION)
+# Docker Lab Commands (Windows / VS Code Terminal)
 
 Run these from your project folder (where `Dockerfile` and `router.py` are present).
 
